@@ -45,7 +45,7 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 ----
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sreecharan1234"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sreecharan1234" /></a></p><br><br>
+<p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sreecharan1234" /></p><br><br>
 <h3 align="left">Ratings</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumitGarg11&show_icons=true&locale=en&layout=compact" alt="SumitGarg11" /></p>
 
