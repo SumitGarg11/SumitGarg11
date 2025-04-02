@@ -52,3 +52,10 @@ HTML   32 mins         ███████▓░░░░░░░░░░░
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumitGarg11&show_icons=true&locale=en" alt="SumitGarg11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitGarg11&" alt="SumitGarg11" /></p>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+
+  
+![](https://github-contributor-stats.vercel.app/api?username=SumitGarg11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
