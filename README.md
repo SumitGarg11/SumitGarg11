@@ -1,15 +1,20 @@
+
+
 <h1 align="center">Hi 👋, I'm Sumit Garg</h1>
+<h3 align="center">Full Stack Developer | Competitive Programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="510" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SumitGarg11&label=Profile%20views&color=0e75b6&style=flat" alt="SumitGarg11" /> 
+</p>
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on [Zenaris](https://zenaris-amber.vercel.app/)  
+- 🔭 Currently working on [Zenaris](https://zenaris-amber.vercel.app/)  
+- 🌱 Exploring **DSA, Web3 & DevOps**  
 - 📫 Reach me at **garg10sumit@gmail.com**  
-- 📄 My Resume  
+- ⚡ Fun fact: *I debug more than I code 😅*  
 
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -30,8 +35,8 @@
 ---
 
 ### 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitGarg11&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SumitGarg11&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -46,17 +51,19 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,django,flask,mysql,mongodb,postgres,git,github,docker,heroku,aws,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,postgres,git,github,docker,aws,heroku,linux,tensorflow,pytorch,opencv" />
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitGarg11&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGarg11&layout=compact&theme=radical" alt="top langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitGarg11&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGarg11&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
 </p>
+
 
 ---
 
@@ -67,9 +74,10 @@
 
 ---
 
-### 📊 Coding Stats (WakaTime)
+### ⏳ Coding Stats (WakaTime)
 ```txt
-Total Time: 6 hr 30 mins
-
-CP     3 hr 30 mins    █████████████████▒░░░░░░░   70 %
-Dev    3 hr    ███████▓░░░░░░░░░░░░░░░░░   30 %
+Total Time: 6 hrs 30 mins
+C++      ████████████░░░░░░░  55% 
+Python   ██████░░░░░░░░░░░░░  25% 
+JS       ████░░░░░░░░░░░░░░░  15% 
+Other    █░░░░░░░░░░░░░░░░░░   5% 
